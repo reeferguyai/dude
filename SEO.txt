@@ -1,0 +1,45 @@
+# ==============================================================================
+# SEO.txt — Search Engine Optimization & Semantic Indexing Specification
+# Ecosystem: ReeferDude.com | PotGrowHub.store | GanjaGoddessAI.com
+# Engine: Gravity-Gone Spatial Physics & Gesture Engine
+# Updated: 2026-11-22
+# ==============================================================================
+
+[CANONICAL_IDENTITY]
+Primary-Domain: https://reeferdude.com/
+Sister-Commerce-Domain: https://potgrowhub.store/
+AI-Persona-Domain: https://ganjagoddessai.com/
+Brand-Name: ReeferDude & PotGrowHub
+Tagline: Zero-Gravity Spatial Commerce, WebXR AR/VR, 3DPoD & Voice AI Budtender
+Primary-Language: en-US
+Supported-Locales: en-US, es-ES, de-DE, fr-FR, ja-JP, zh-CN
+
+[META_SIGNALS]
+Title-Template: ReeferDude.com | Gravity-Gone Spatial Commerce, WebXR AR/VR, 3DPoD & GanjaGuru AI Budtender
+Meta-Description: Explore ReeferDude.com and PotGrowHub.store—an interactive zero-gravity WebXR digital universe featuring GanjaGroot, voice-enabled GanjaGuru & GanjaGoddessAI virtual budtenders, eco-friendly hemp apparel, biodegradable 3DPoD accessories, and gamified zero-inventory creator blueprints.
+Robots-Directive: index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1
+Content-Rating: 21+ Lifestyle, Sustainable Hemp, Spatial Commerce & Creator Tech
+
+[CORE_KEYWORD_CLUSTERS]
+Cluster-01-Brand-Entities: reeferdude, potgrowhub, ganjaguru, ganjagoddessai, ganjagroot, gravity-gone
+Cluster-02-Spatial-WebXR: spatial web, zero-gravity ui, physics navigation, webxr commerce, ar product preview, vr showroom, 3d configurator, stl viewer
+Cluster-03-Zero-Inventory-Commerce: print on demand, pod merch, 3dpod, 3d print on demand, ghost commerce, zero inventory storefront, custom stl accessories, vector blueprint studio
+Cluster-04-Sustainable-Lifestyle: hemp apparel, organic hemp clothing, biodegradable pla+ accessories, eco-friendly lifestyle gear, odor-proof travel bags, rolling trays, stash boxes
+Cluster-05-AI-Budtender-Voice: virtual budtender, ai budtender, voice commerce, terpene explorer, cannabinoid guide, offline pwa, local llm ollama
+
+[TECHNICAL_SEO_ARCHITECTURE]
+Root-Assets-Location: / (Project Root: sitemap.xml, robots.txt, ads.txt, SEO.txt, AEO.txt, llms.txt, humans.txt, manifest.json, sw.js)
+Structured-Data-Format: JSON-LD (@graph combining Organization, WebSite, WebApplication, SoftwareApplication, ItemList, FAQPage)
+Core-Web-Vitals-Targets: LCP < 2.0s, INP < 100ms, CLS < 0.05
+Accessibility-Compliance: WCAG 2.2 AA, Full ARIA Landmarks, Reduced-Motion Toggle, Keyboard Spatial Navigation
+Internationalization: hreflang annotations across en, es, de, fr, ja, zh + x-default
+
+[INDEXING_AND_DISCOVERY_ENDPOINTS]
+Sitemap-XML: https://reeferdude.com/sitemap.xml
+Robots-TXT: https://reeferdude.com/robots.txt
+AEO-TXT: https://reeferdude.com/AEO.txt
+LLMs-TXT: https://reeferdude.com/llms.txt
+Humans-TXT: https://reeferdude.com/humans.txt
+Security-TXT: https://reeferdude.com/.well-known/security.txt
+Web-Manifest: https://reeferdude.com/manifest.json
+
