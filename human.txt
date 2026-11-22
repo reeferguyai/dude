@@ -1,0 +1,37 @@
+/* ==========================================================================
+   HUMANS.TXT — The Creators, Architects & Visionaries Behind the Universe
+   ReeferDude.com | PotGrowHub.store | GanjaGoddessAI.com
+   ========================================================================== */
+
+/* TEAM */
+Co-Founder, Lead Systems Architect & Spatial Engine Developer: Raymond Meadows
+Location: Middletown / Franklin, Ohio, United States
+Role: Creator of the Gravity-Gone Spatial Engine, GanjaGroot Universe, Local-First AI Pipelines & Cross-Platform Tooling
+Contact: admin [at] reeferdude.com
+Site: https://reeferdude.com
+
+Co-Founder, Brand Operations & Sustainable Commerce Strategist: Jessica Mullins
+Location: Middletown / Franklin, Ohio, United States
+Role: Co-Owner of ReeferDude.com & PotGrowHub.store, Eco-Sourcing & Brand Operations
+Contact: ops [at] potgrowhub.store
+Site: https://potgrowhub.store
+
+/* PHILOSOPHY */
+Motto: "We Are The Socket — Step Into Your Imagination."
+Core Principles:
+- Zero-gravity spatial interfaces that feel alive, tactile, and intuitive
+- Zero-inventory, eco-conscious POD & 3DPoD commerce with biodegradable priorities
+- Free and open-source software (FOSS) foundations with offline-first resilience
+- Human-in-the-loop verification before any order or financial action
+
+/* THANKS & INSPIRATION */
+Open-Source Communities: Three.js, Matter.js, Vite, WebLLM, Ollama, Transformers.js, Model-Viewer
+Creative Spirit: Outlaw country grit, West Coast hip-hop swagger, cosmic curiosity, and DIY hardware craftsmanship
+
+/* SITE */
+Last Update: 2026/11/22
+Language: English (Primary) / Spanish / German / French / Japanese / Chinese
+Doctype: HTML5 + JSON-LD + WebXR + PWA
+Standards: WCAG 2.2 AA, Schema.org, Google Consent Mode v2, RFC 9116 Security.txt
+IDE & Environments: VS Code, PowerShell, WSL2 Ubuntu, Penguin Linux, Termux PRoot Ubuntu
+Hosting: GitHub Pages Edge + Cloudflare DNS
