@@ -1,1 +1,38 @@
+# ReeferDude.com & PotGrowHub.store
+
+> Zero-gravity WebXR spatial commerce universe, voice-controlled AI virtual budtender (GanjaGuru / GanjaGoddessAI), and zero-inventory Print-on-Demand (POD) & 3D Print-on-Demand (3DPoD) ecosystem powered by the Gravity-Gone physics engine.
+
+ReeferDude (`https://reeferdude.com`) and PotGrowHub (`https://potgrowhub.store`) form an interconnected spatial web platform built on a zero-inventory "Socket" architecture. Users navigate a weightless cosmos centered around **GanjaGroot** (the living botanical hub) by grabbing, dragging, or flicking luminous smoke portals across 2D physics, 3D WebGL, and WebXR AR/VR modes.
+
+## Core Ecosystem Entities
+
+- **ReeferDude (`https://reeferdude.com`)**: Primary spatial web application, interactive cosmos, Dream-It Studio, Knowledge Grove, and gamified SmokeSeeds rewards hub.
+- **PotGrowHub (`https://potgrowhub.store`)**: Sustainable e-commerce storefront specializing in zero-inventory hemp apparel, biodegradable 3DPoD accessories, and verified eco-friendly lifestyle gear.
+- **GanjaGuru / GanjaGoddessAI (`https://ganjagoddessai.com`)**: Voice-and-text conversational AI assistant supporting Web Speech API, offline IndexedDB RAG, and local GGUF/Ollama models.
+- **Gravity-Gone Engine**: Modular pointer-gesture, momentum/flick physics, and adaptive rendering engine scaling from mobile PWAs to desktop WebGL and WebXR headsets.
+
+## Primary Navigation & Deep Links
+
+- [Main Spatial Universe](https://reeferdude.com/): Interactive GanjaGroot hub and Gravity-Gone floating portals.
+- [Discovery Nebula](https://reeferdude.com/?portal=discovery): Guided spatial exploration and ecosystem overview.
+- [Ghost Marketplace](https://reeferdude.com/?portal=marketplace): Curated eco-friendly hemp apparel, glassware, and biodegradable 3DPoD catalog.
+- [Dream-It 3DPoD & POD Studio](https://reeferdude.com/?portal=studio): Interactive generator for custom SVG apparel blueprints and 3D-printable STL accessories.
+- [WebXR AR/VR Showroom](https://reeferdude.com/?mode=xr): Augmented Reality product placement and Virtual Reality spatial gallery.
+- [Knowledge Grove](https://reeferdude.com/?portal=knowledge): Structured guides on terpenes, industrial hemp materials, and zero-inventory e-commerce.
+- [GanjaGuru AI Assistant](https://reeferdude.com/?portal=guru): Direct conversational and voice prompt interface.
+- [Rewards & Quests Vault](https://reeferdude.com/?portal=rewards): Gamified XP, daily streaks, and SmokeSeeds loyalty system.
+
+## Machine-Readable Specifications
+
+- [Sitemap XML](https://reeferdude.com/sitemap.xml): Full canonical and multi-language URL index.
+- [SEO Specification](https://reeferdude.com/SEO.txt): Semantic keyword clusters, technical SEO targets, and locale metadata.
+- [AEO Specification](https://reeferdude.com/AEO.txt): Entity graph, canonical Q&A pairs, and intent routing rules for answer engines.
+- [Web App Manifest](https://reeferdude.com/manifest.json): PWA icons, shortcuts, share targets, file handlers (`.stl`, `.glb`, `.gltf`, `.svg`), and protocol handlers.
+- [Robots Policy](https://reeferdude.com/robots.txt): Crawler permissions and sitemap declarations.
+
+## Operational & Safety Boundaries
+
+- **Scope**: Focused on spatial commerce, POD/3DPoD creation, sustainable hemp/lifestyle products, and AI assistance—not cannabis cultivation.
+- **Age Policy**: Intended for adults 21 years of age or older where required by local jurisdiction.
+- **Commerce Verification**: Distinguishes conceptual/draft designs from verified fulfillment catalogs; requires explicit human approval prior to any financial transaction or supplier order.
 
