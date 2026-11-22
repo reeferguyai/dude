@@ -1,0 +1,385 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "id": "https://reeferdude.com/?source=pwa",
+  "name": "ReeferDude — Gravity-Gone Spatial Universe & AI Budtender",
+  "short_name": "ReeferDude",
+  "description": "An anti-gravity WebXR spatial commerce, zero-inventory Print-on-Demand (POD), 3D Print-on-Demand (3DPoD), and voice-controlled AI virtual budtender (GanjaGuru / GanjaGoddessAI) ecosystem for ReeferDude.com and PotGrowHub.store.",
+  "lang": "en-US",
+  "dir": "ltr",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "scope_extensions": [
+    {
+      "origin": "https://potgrowhub.store"
+    },
+    {
+      "origin": "https://ganjagoddessai.com"
+    }
+  ],
+  "display": "standalone",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "minimal-ui",
+    "browser"
+  ],
+  "orientation": "any",
+  "theme_color": "#070510",
+  "background_color": "#070510",
+  "categories": [
+    "shopping",
+    "lifestyle",
+    "entertainment",
+    "utilities",
+    "education"
+  ],
+  "iarc_rating_id": "e84b072d-71b3-4d3e-86ae-31a8ce4e53b7",
+  "prefer_related_applications": false,
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "https://reeferdude.com/manifest.json",
+      "id": "https://reeferdude.com/?source=pwa"
+    },
+    {
+      "platform": "webapp",
+      "url": "https://potgrowhub.store/manifest.json",
+      "id": "https://potgrowhub.store/?source=pwa"
+    }
+  ],
+  "launch_handler": {
+    "client_mode": [
+      "focus-existing",
+      "auto"
+    ]
+  },
+  "handle_links": "preferred",
+  "edge_side_panel": {
+    "preferred_width": 440
+  },
+  "icons": [
+    {
+      "src": "/icons/icon-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-maskable-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icons/icon-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icons/icon-monochrome-512x512.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "monochrome"
+    },
+    {
+      "src": "/icons/icon-vector.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshots/desktop-gravity-universe-1920x1080.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "ReeferDude Gravity-Gone Spatial Cosmos with GanjaGroot and Floating Smoke Portals"
+    },
+    {
+      "src": "/screenshots/desktop-dream-it-3dpod-studio-1920x1080.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Dream-It Studio 3DPoD STL Configurator and Zero-Inventory Merch Blueprint Builder"
+    },
+    {
+      "src": "/screenshots/mobile-ganjaguru-voice-ar-1080x2400.png",
+      "sizes": "1080x2400",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Mobile Spatial Navigation, AR Product Preview, and Voice-Controlled GanjaGuru AI Budtender"
+    },
+    {
+      "src": "/screenshots/mobile-ghost-marketplace-1080x2400.png",
+      "sizes": "1080x2400",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Ghost Marketplace Curated Eco-Hemp Apparel and Biodegradable 3D-Printed Accessories"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Ask GanjaGuru AI",
+      "short_name": "GanjaGuru",
+      "description": "Launch the voice-enabled AI virtual budtender and offline RAG assistant",
+      "url": "/?portal=guru&voice=1",
+      "icons": [
+        {
+          "src": "/icons/shortcut-guru-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Dream-It 3DPoD & POD Studio",
+      "short_name": "Dream Studio",
+      "description": "Design custom hemp merch and 3D-printed STL accessories with zero inventory",
+      "url": "/?portal=studio",
+      "icons": [
+        {
+          "src": "/icons/shortcut-studio-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Ghost Marketplace",
+      "short_name": "Marketplace",
+      "description": "Browse verified eco-friendly hemp gear, glassware, and 3DPoD products",
+      "url": "/?portal=marketplace",
+      "icons": [
+        {
+          "src": "/icons/shortcut-market-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Launch WebXR AR/VR View",
+      "short_name": "WebXR Space",
+      "description": "Enter the immersive 3D spatial cosmos and AR product preview mode",
+      "url": "/?mode=xr",
+      "icons": [
+        {
+          "src": "/icons/shortcut-xr-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ],
+  "share_target": {
+    "action": "/share-receiver",
+    "method": "POST",
+    "enctype": "multipart/form-data",
+    "params": {
+      "title": "title",
+      "text": "text",
+      "url": "url",
+      "files": [
+        {
+          "name": "design_assets",
+          "accept": [
+            "image/png",
+            "image/jpeg",
+            "image/webp",
+            "image/svg+xml",
+            "model/stl",
+            "model/gltf-binary",
+            "model/gltf+json",
+            "application/json"
+          ]
+        }
+      ]
+    }
+  },
+  "file_handlers": [
+    {
+      "action": "/?portal=studio&handler=3d-model",
+      "accept": {
+        "model/stl": [
+          ".stl"
+        ],
+        "model/gltf-binary": [
+          ".glb"
+        ],
+        "model/gltf+json": [
+          ".gltf"
+        ],
+        "image/svg+xml": [
+          ".svg"
+        ]
+      },
+      "icons": [
+        {
+          "src": "/icons/icon-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ],
+      "launch_type": "single-client"
+    },
+    {
+      "action": "/?portal=discovery&handler=universe-layout",
+      "accept": {
+        "application/json": [
+          ".gglayout",
+          ".json"
+        ]
+      },
+      "icons": [
+        {
+          "src": "/icons/icon-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ],
+      "launch_type": "single-client"
+    }
+  ],
+  "protocol_handlers": [
+    {
+      "protocol": "web+reeferdude",
+      "url": "/?intent=%s"
+    },
+    {
+      "protocol": "web+gravitygone",
+      "url": "/?portal=%s"
+    },
+    {
+      "protocol": "web+ganjaguru",
+      "url": "/?ask=%s"
+    }
+  ],
+  "widgets": [
+    {
+      "name": "GanjaGuru Daily Wisdom & Strain Explorer",
+      "short_name": "GanjaGuru",
+      "description": "Quick voice prompt and daily botanical/terpene insight card",
+      "tag": "ganjaguru-daily-widget",
+      "template": "ganjaguru-card-template",
+      "ms_ac_template": "/widgets/ganjaguru-adaptive-card.json",
+      "data": "/widgets/ganjaguru-data.json",
+      "type": "application/json",
+      "screenshots": [
+        {
+          "src": "/screenshots/widget-ganjaguru-400x400.png",
+          "sizes": "400x400",
+          "label": "GanjaGuru AI Quick Prompt Widget"
+        }
+      ],
+      "icons": [
+        {
+          "src": "/icons/icon-96x96.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ],
+      "auth": false,
+      "update": 86400
+    }
+  ],
+  "note_taking": {
+    "new_note_url": "/?portal=studio&new_blueprint=1"
+  },
+  "custom_metadata": {
+    "ecosystem": {
+      "primaryDomain": "https://reeferdude.com",
+      "commerceDomain": "https://potgrowhub.store",
+      "aiPersonaDomain": "https://ganjagoddessai.com",
+      "spatialEngine": "Gravity-Gone Spatial Physics & Gesture Engine",
+      "avatar": "GanjaGroot",
+      "aiAssistants": [
+        "GanjaGuru",
+        "GanjaGoddessAI"
+      ]
+    },
+    "capabilities": {
+      "offlineFirst": true,
+      "localLLM": [
+        "Ollama",
+        "WebLLM",
+        "Transformers.js"
+      ],
+      "webXR": [
+        "immersive-ar",
+        "immersive-vr",
+        "inline"
+      ],
+      "commerceModes": [
+        "Print-on-Demand (POD)",
+        "3D Print-on-Demand (3DPoD)",
+        "Verified Eco-Affiliate",
+        "Zero-Inventory Dropship"
+      ],
+      "voiceControl": true,
+      "reducedMotionSupport": true
+    },
+    "seoAndAeo": {
+      "llmsTxt": "/llms.txt",
+      "sitemap": "/sitemap.xml",
+      "robots": "/robots.txt",
+      "adsTxt": "/ads.txt",
+      "aiPlugin": "/.well-known/ai-plugin.json"
+    }
+  }
+}
