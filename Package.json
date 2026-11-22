@@ -1,0 +1,423 @@
+{
+  "name": "reeferdude-gravity-gone-ecosystem",
+  "title": "ReeferDude.com & PotGrowHub — Gravity-Gone Spatial Commerce & AI Ecosystem",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "description": "An anti-gravity spatial commerce, WebXR AR/VR, zero-inventory Print-on-Demand (POD), 3D Print-on-Demand (3DPoD), voice-controlled AI virtual budtender (GanjaGuru / GanjaGoddessAI), and cannabis/hemp lifestyle ecosystem powered by the Gravity-Gone physics and gesture engine for ReeferDude.com and PotGrowHub.store.",
+  "homepage": "https://reeferdude.com",
+  "author": {
+    "name": "Raymond Meadows",
+    "email": "admin@reeferdude.com",
+    "url": "https://reeferdude.com"
+  },
+  "contributors": [
+    {
+      "name": "Raymond Meadows",
+      "role": "Lead Architect, Spatial Engine Developer & Co-Founder",
+      "url": "https://reeferdude.com"
+    },
+    {
+      "name": "Jessica Mullins",
+      "role": "Co-Founder, Brand Operations & Sustainable Commerce Strategist",
+      "url": "https://potgrowhub.store"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "Raymond Meadows",
+      "email": "admin@reeferdude.com",
+      "url": "https://reeferdude.com"
+    },
+    {
+      "name": "Jessica Mullins",
+      "email": "ops@potgrowhub.store",
+      "url": "https://potgrowhub.store"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reeferdude/reeferdude-gravity-gone.git",
+    "directory": "."
+  },
+  "bugs": {
+    "url": "https://github.com/reeferdude/reeferdude-gravity-gone/issues",
+    "email": "support@reeferdude.com"
+  },
+  "funding": [
+    {
+      "type": "storefront",
+      "url": "https://potgrowhub.store"
+    },
+    {
+      "type": "platform",
+      "url": "https://reeferdude.com"
+    }
+  ],
+  "keywords": [
+    "reeferdude",
+    "potgrowhub",
+    "ganjaguru",
+    "ganjagoddessai",
+    "ganjagroot",
+    "gravity-gone",
+    "cannabis",
+    "cannabis-lifestyle",
+    "cannabis-tech",
+    "cannabis-ecommerce",
+    "cannabis-accessories",
+    "dispensary-tech",
+    "virtual-budtender",
+    "ai-budtender",
+    "terpenes",
+    "terpene-explorer",
+    "cannabinoids",
+    "cbd",
+    "thca",
+    "delta-8",
+    "hemp",
+    "hemp-apparel",
+    "hemp-lifestyle",
+    "industrial-hemp",
+    "smoking-accessories",
+    "glassware",
+    "rolling-trays",
+    "stash-boxes",
+    "odor-proof-bags",
+    "vaporizers",
+    "420",
+    "420-lifestyle",
+    "spatial-web",
+    "webxr",
+    "augmented-reality",
+    "virtual-reality",
+    "ar-try-on",
+    "vr-dispensary",
+    "3d-configurator",
+    "3d-modeling",
+    "stl-generator",
+    "gltf",
+    "threejs",
+    "zero-gravity-ui",
+    "physics-navigation",
+    "print-on-demand",
+    "pod-merch",
+    "printful",
+    "printify",
+    "3dpod",
+    "3d-print-on-demand",
+    "shapeways",
+    "craftcloud",
+    "ghost-commerce",
+    "zero-inventory",
+    "dropshipping",
+    "headless-commerce",
+    "sustainable-ecommerce",
+    "biodegradable-products",
+    "pla-plus",
+    "offline-first",
+    "pwa",
+    "local-llm",
+    "ollama",
+    "webllm",
+    "voice-commerce",
+    "voice-assistant",
+    "speech-recognition",
+    "text-to-speech"
+  ],
+  "categories": [
+    "Spatial Computing & WebXR (AR/VR)",
+    "Zero-Inventory E-Commerce (POD & 3DPoD)",
+    "Cannabis & Hemp Lifestyle Commerce",
+    "Conversational Voice AI & Local RAG",
+    "Interactive 2D/3D Physics & CAD Studio"
+  ],
+  "seo": {
+    "canonicalUrl": "https://reeferdude.com",
+    "alternateUrls": [
+      "https://potgrowhub.store",
+      "https://ganjagoddessai.com"
+    ],
+    "metaTitle": "ReeferDude.com | Gravity-Gone Spatial Universe, Cannabis Gear, AR/VR & AI Budtender",
+    "metaDescription": "Explore ReeferDude.com and PotGrowHub.store—an interactive zero-gravity WebXR digital universe featuring GanjaGroot, voice-enabled GanjaGuru AI budtender, eco-friendly hemp apparel, 3D-printed cannabis accessories, and zero-inventory POD/3DPoD creator blueprints.",
+    "openGraph": {
+      "type": "website",
+      "siteName": "ReeferDude.com",
+      "locale": "en_US",
+      "alternateLocales": [
+        "es_ES",
+        "de_DE",
+        "fr_FR",
+        "ja_JP",
+        "zh_CN"
+      ],
+      "image": "https://reeferdude.com/og-gravity-gone-banner.png",
+      "imageAlt": "GanjaGroot breathing luminous emerald smoke portals in the ReeferDude Gravity-Gone cosmos"
+    },
+    "twitterCard": {
+      "card": "summary_large_image",
+      "site": "@reeferdude",
+      "creator": "@reeferdude"
+    },
+    "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+    "sitemap": "https://reeferdude.com/sitemap.xml"
+  },
+  "aeo": {
+    "entityName": "ReeferDude",
+    "entityType": "WebApplication",
+    "parentOrganization": "PotGrowHub",
+    "aiAssistants": [
+      "GanjaGuru",
+      "GanjaGoddessAI"
+    ],
+    "primaryAvatar": "GanjaGroot",
+    "coreEngine": "Gravity-Gone Spatial Physics & Gesture Engine",
+    "answerEngineSummary": "ReeferDude.com is a zero-gravity, voice-enabled WebXR spatial web platform and sustainable cannabis/hemp commerce ecosystem powered by the Gravity-Gone physics engine, connecting creators and shoppers to zero-inventory hemp apparel, biodegradable 3D-printed accessories, AR product previews, and AI virtual budtender guidance via GanjaGuru AI.",
+    "structuredDataSchemaTypes": [
+      "WebApplication",
+      "Organization",
+      "SoftwareSourceCode",
+      "ProductCollection",
+      "3DModel",
+      "FAQPage",
+      "HowTo"
+    ],
+    "llmsTxt": "https://reeferdude.com/llms.txt",
+    "aiPluginManifest": "https://reeferdude.com/.well-known/ai-plugin.json",
+    "supportedIntents": [
+      "spatial-portal-navigation",
+      "ar-vr-product-preview",
+      "custom-merch-pod-blueprinting",
+      "3dpod-stl-accessory-sourcing",
+      "sustainable-hemp-cannabis-discovery",
+      "voice-budtender-guidance",
+      "offline-ai-assistant-guidance"
+    ]
+  },
+  "related": {
+    "domains": [
+      "https://reeferdude.com",
+      "https://potgrowhub.store",
+      "https://ganjagoddessai.com"
+    ],
+    "subsystems": {
+      "spatialEngine": "gravity-gone-core",
+      "xrRenderer": "gravity-gone-webxr-ar-vr",
+      "aiOrchestrator": "ganjaguru-hybrid-rag",
+      "voicePipeline": "ganjaguru-speech-tts-bridge",
+      "commerceSocket": "potgrowhub-pod-3dpod-bridge",
+      "studioBuilder": "dream-it-vector-cad-3d-studio"
+    },
+    "compatibleRuntimes": [
+      "Ollama Local GGUF",
+      "WebLLM / MLC Browser Inference",
+      "Transformers.js ONNX Runtime",
+      "WebXR Device API (AR/VR)",
+      "Web Speech API & Whisper WASM",
+      "GitHub Pages Static Edge",
+      "Cloudflare DNS & Workers"
+    ]
+  },
+  "libraries": {
+    "spatialAndPhysics": [
+      "matter-js",
+      "cannon-es",
+      "@react-three/rapier",
+      "three",
+      "@react-three/fiber",
+      "@react-three/drei",
+      "@use-gesture/react",
+      "framer-motion"
+    ],
+    "arAndVrWebXR": [
+      "@react-three/xr",
+      "@google/model-viewer",
+      "webxr-polyfill",
+      "mind-ar"
+    ],
+    "threeDAnd3DPoD": [
+      "@jscad/modeling",
+      "@jscad/stl-serializer",
+      "three-stdlib",
+      "fabric",
+      "konva",
+      "react-konva"
+    ],
+    "aiAndLocalInference": [
+      "@mlc-ai/web-llm",
+      "ollama",
+      "@xenova/transformers",
+      "@huggingface/transformers",
+      "ai",
+      "idb-keyval",
+      "minisearch"
+    ],
+    "voiceAndAudio": [
+      "react-speech-recognition",
+      "regenerator-runtime",
+      "tone",
+      "howler"
+    ],
+    "ecommercePodAndPayments": [
+      "@stripe/stripe-js",
+      "@shopify/hydrogen-react",
+      "zod",
+      "zustand",
+      "jspdf",
+      "qrcode",
+      "lucide-react"
+    ]
+  },
+  "engines": {
+    "node": ">=20.11.0",
+    "npm": ">=10.2.0"
+  },
+  "os": [
+    "linux",
+    "win32",
+    "darwin",
+    "android"
+  ],
+  "cpu": [
+    "x64",
+    "arm64"
+  ],
+  "files": [
+    "index.html",
+    "404.html",
+    "CNAME",
+    "ads.txt",
+    "robots.txt",
+    "sitemap.xml",
+    "llms.txt",
+    "manifest.webmanifest",
+    "sw.js",
+    ".well-known/",
+    "dist/",
+    "src/"
+  ],
+  "sideEffects": [
+    "*.css"
+  ],
+  "browserslist": {
+    "production": [
+      ">0.5%",
+      "not dead",
+      "not op_mini all",
+      "last 2 ChromeAndroid versions",
+      "last 2 Safari versions"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 5173",
+    "dev:https": "vite --host 0.0.0.0 --port 5173 --https",
+    "dev:xr": "vite --host 0.0.0.0 --port 5173 --https --open /?mode=xr",
+    "dev:ollama": "OLLAMA_ORIGINS=* ollama serve",
+    "build": "tsc -b && vite build",
+    "build:gh-pages": "tsc -b && vite build --base=/",
+    "build:analyze": "vite build --mode analyze",
+    "preview": "vite preview --host 0.0.0.0 --port 4173",
+    "preview:https": "vite preview --host 0.0.0.0 --port 4173 --https",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+    "lint:fix": "eslint . --ext ts,tsx --fix",
+    "format": "prettier --write \"src/**/*.{ts,tsx,css,json}\" \"*.{json,html,md}\"",
+    "format:check": "prettier --check \"src/**/*.{ts,tsx,css,json}\" \"*.{json,html,md}\"",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:ui": "vitest --ui",
+    "test:coverage": "vitest run --coverage",
+    "3dpod:validate-stl": "node scripts/validate-3dpod-meshes.mjs",
+    "pod:sync-catalog": "node scripts/sync-pod-catalog.mjs",
+    "ai:build-rag-index": "node scripts/build-local-rag-index.mjs",
+    "seo:validate": "node scripts/validate-seo-aeo.mjs",
+    "seo:generate-sitemap": "node scripts/generate-sitemap.mjs",
+    "audit:pwa": "lighthouse http://localhost:4173 --only-categories=performance,accessibility,best-practices,seo,pwa --output=json --output-path=./lighthouse-report.json",
+    "audit:deps": "npm audit --audit-level=moderate",
+    "clean": "rimraf dist coverage .vite"
+  },
+  "dependencies": {
+    "@google/model-viewer": "^4.0.0",
+    "@huggingface/transformers": "^3.1.2",
+    "@jscad/modeling": "^2.12.2",
+    "@jscad/stl-serializer": "^2.1.12",
+    "@mlc-ai/web-llm": "^0.2.72",
+    "@react-three/drei": "^9.117.3",
+    "@react-three/fiber": "^8.17.10",
+    "@react-three/rapier": "^1.5.0",
+    "@react-three/xr": "^6.4.0",
+    "@shopify/hydrogen-react": "^2024.10.0",
+    "@stripe/stripe-js": "^4.10.0",
+    "@use-gesture/react": "^10.3.1",
+    "@xenova/transformers": "^2.17.2",
+    "ai": "^4.0.0",
+    "cannon-es": "^0.20.0",
+    "clsx": "^2.0.0",
+    "fabric": "^6.4.3",
+    "framer-motion": "^11.11.17",
+    "howler": "^2.2.4",
+    "idb-keyval": "^6.2.1",
+    "jspdf": "^2.5.2",
+    "konva": "^9.3.16",
+    "lucide-react": "^0.460.0",
+    "matter-js": "^0.20.0",
+    "mind-ar": "^1.2.5",
+    "minisearch": "^7.1.0",
+    "ollama": "^0.5.11",
+    "qrcode": "^1.5.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-helmet-async": "^2.0.5",
+    "react-konva": "^18.2.10",
+    "react-speech-recognition": "^3.10.0",
+    "regenerator-runtime": "^0.14.1",
+    "tailwind-merge": "^2.5.5",
+    "three": "^0.170.0",
+    "three-stdlib": "^2.34.0",
+    "tone": "^15.0.4",
+    "webxr-polyfill": "^2.0.3",
+    "zod": "^3.23.8",
+    "zustand": "^5.0.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.15.0",
+    "@types/howler": "^2.2.11",
+    "@types/matter-js": "^0.19.8",
+    "@types/node": "^22.9.1",
+    "@types/qrcode": "^1.5.5",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@types/react-speech-recognition": "^3.9.6",
+    "@types/three": "^0.170.0",
+    "@vitejs/plugin-basic-ssl": "^1.1.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "@vitest/coverage-v8": "^2.1.5",
+    "@vitest/ui": "^2.1.5",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.15.0",
+    "eslint-plugin-react-hooks": "^5.0.0",
+    "eslint-plugin-react-refresh": "^0.4.14",
+    "globals": "^15.12.0",
+    "jsdom": "^25.0.1",
+    "postcss": "^8.4.49",
+    "prettier": "^3.3.3",
+    "rimraf": "^6.0.1",
+    "rollup-plugin-visualizer": "^5.12.0",
+    "tailwindcss": "^3.4.15",
+    "typescript": "^5.6.3",
+    "typescript-eslint": "^8.15.0",
+    "vite": "^5.4.11",
+    "vite-plugin-pwa": "^0.21.0",
+    "vitest": "^2.1.5"
+  },
+  "optionalDependencies": {
+    "sharp": "^0.33.5"
+  }
+}
+
