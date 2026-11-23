@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-labelledby="title desc">
+  <title id="title">GanjaGroot, the ReeferDude botanical guardian</title>
+  <desc id="desc">An original, friendly plant spirit with a leafy crown, warm golden eyes, and glowing emerald smoke-like nebula curls, floating in a dark cosmic garden.</desc>
+  <defs>
+    <radialGradient id="aura"><stop stop-color="#b5ff84" stop-opacity=".3"/><stop offset="1" stop-color="#75ff70" stop-opacity="0"/></radialGradient>
+    <linearGradient id="bark" x1=".2" y1="0" x2=".8" y2="1"><stop stop-color="#b58a54"/><stop offset=".48" stop-color="#65452d"/><stop offset="1" stop-color="#35281e"/></linearGradient>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ccff83"/><stop offset=".45" stop-color="#55d768"/><stop offset="1" stop-color="#16744d"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="8" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <circle cx="210" cy="210" r="190" fill="url(#aura)"/>
+  <g fill="none" stroke="#a8ff91" stroke-opacity=".35" stroke-width="3" filter="url(#glow)"><path d="M50 250c-28-34 25-63 7-95-13-24 13-38 35-26"/><path d="M338 285c46-23 4-57 32-87 19-21-3-44-20-45"/><path d="M101 335c-34-11-27-43-4-55"/></g>
+  <g fill="url(#leaf)" stroke="#baff87" stroke-opacity=".5" stroke-width="2">
+    <path d="M209 104C181 57 193 30 208 13c6 25 24 48 10 92-2-29-9-45-11-55-3 19 2 34 2 54z"/>
+    <path d="M183 115c-48-18-60-48-57-70 22 17 51 20 73 58-19-17-33-24-42-31 11 15 23 24 32 43z"/>
+    <path d="M231 112c35-43 68-43 88-32-24 13-39 38-84 47 23-13 36-25 46-31-18 6-30 15-50 24z"/>
+    <path d="M158 139c-50 1-72-23-80-43 26 7 54 1 88 30-23-9-39-11-50-14 15 11 29 16 42 27z"/>
+    <path d="M262 135c42-28 73-16 89 0-27 1-51 15-91 8 25-3 41-9 52-13-19 1-34 5-50 5z"/>
+    <path d="M205 137c-14-43 5-67 21-79 0 25 12 49-9 83 4-22 3-37 2-47-5 17-5 31-14 43z"/>
+  </g>
+  <path d="M151 160c10-35 39-50 69-49 37 1 66 23 70 61l-11 82c-5 42-35 67-73 67-39 0-69-27-73-67z" fill="url(#bark)" stroke="#c59c66" stroke-width="3"/>
+  <path d="M174 208c10-11 23-11 33-1" fill="none" stroke="#261d18" stroke-width="8" stroke-linecap="round"/><path d="M229 207c11-10 24-9 33 2" fill="none" stroke="#261d18" stroke-width="8" stroke-linecap="round"/>
+  <ellipse cx="190" cy="220" rx="8" ry="10" fill="#ffd879" filter="url(#glow)"/><ellipse cx="244" cy="220" rx="8" ry="10" fill="#ffd879" filter="url(#glow)"/>
+  <path d="M198 257c11 12 28 13 40-1" fill="none" stroke="#2b211b" stroke-width="6" stroke-linecap="round"/>
+  <path d="M143 252c-18 5-30 19-30 35 14 8 29 3 39-9M277 264c18 2 30 16 31 32-13 9-28 5-39-6" fill="none" stroke="#80ed77" stroke-opacity=".75" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="129" cy="307" r="5" fill="#ffd278"/><circle cx="291" cy="124" r="4" fill="#c4a4ff"/><circle cx="95" cy="190" r="3" fill="#b8ffe8"/>
+</svg>
